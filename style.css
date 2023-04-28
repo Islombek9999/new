@@ -146,6 +146,11 @@ body{
     color:#45525B;
     font-size: 12px;
 }
+.box__box__images__boxess{
+   margin-left: 10px;
+   background-color: #FAFAFC;
+
+}
 .box{
     margin-top: 100px;
 }
@@ -181,11 +186,37 @@ body{
     height: 28px;
     
 }
+.box__box__images_box{
+   padding: 21px;
+}
+.box__box__images_box{
+   width: 196px;
+   color:#6F7278 ;
+   font-size: 14px;
+}
 .boxes{
     margin: 70px;
     width: 48px;
     height: 48px;
     color:black;
+}
+.box__box__images__boxess h3{
+   font-size: 14px;
+   color: #45525B ;
+
+}
+.box__box__images__boxess h3{
+   font-size: 14px;
+   color: #45525B ;
+
+}
+.box__box__images__boxess{
+   padding-top: 21px;
+   padding-left: 21px;
+   width: 300px;
+   height: 165px;
+   background-color: #FAFAFC;
+   border-radius: 5px;
 }
 .div{
     margin-top: 100px;
