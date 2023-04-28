@@ -37,6 +37,9 @@ body{
    
     color: crimson;
 }
+.header .header__items .header__items_list:hover  .drop{
+   display: block;
+}
 .header .header__items .header__items_list .drop ul li{
     
 
@@ -44,10 +47,11 @@ body{
 
 }
 .header .header__items .header__items_list .drop{
-    background-color: black;
+   z-index: 5;
+    /* background-color: black; */
     position: absolute;
     padding: 25px 15px;
-    transition: all 0.3s linear;
+    transition: all 0.9s linear;
     display: none;
 }
 .header .header__items .header__items_list.header__items_list::hover  .header__items_list .drop{
